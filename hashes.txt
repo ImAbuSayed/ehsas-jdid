@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ehsas Jdid
+
+This log tracks the cryptographic history and versioning for the song **Ehsas Jdid** (ehsas-jdid).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T14:12:15.784038 | `v1` | `97efe3a7fd7d0680e41ae5b465ac1fa4d3df66230ac9bdc3eb1c6ba64f7d1045` | `656daba55ed456254317a8a18d24f9f5de8b6cf5be05209cc7c449889678585f` | `2026-05-09_ehsas-jdid-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
